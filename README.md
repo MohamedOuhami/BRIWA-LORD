@@ -1,2 +1,2 @@
-# Mini-Game1
-"     "  is a 100% Moroccan game consisted of 3 mini-games
+# BRIWA-LORD
+"     "  Briwa Lord is 100% Moroccan game based on the public figure Botato aka "Briwa". Here you'll find the code source of the game
